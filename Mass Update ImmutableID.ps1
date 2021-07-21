@@ -1,3 +1,5 @@
+# Run this in a PowerShell session where you have previously established a connection using Connect-MsolService  
+
 #Set this value to your domain name intended for federation
 $domain = "dtnb.tech"
 
