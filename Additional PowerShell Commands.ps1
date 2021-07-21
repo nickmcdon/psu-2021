@@ -1,3 +1,6 @@
+#Use this command to install the MSOnline module 
+Install-Module MSOnline
+
 #Use this command to connect and auth MSonline to Azure AD
 Connect-MsolService
 
