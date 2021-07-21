@@ -1,4 +1,5 @@
-# Run this in a PowerShell session where you have previously established a connection using Connect-MsolService  
+# Run this in a PowerShell session where you have previously established a connection using Connect-MsolService
+# This script assumes that the users current UPN will match the NameID value sent by the identity provider
 
 #Set this value to your domain name intended for federation
 $domain = "dtnb.tech"
