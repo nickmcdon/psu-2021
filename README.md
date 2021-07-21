@@ -3,13 +3,13 @@
 
 #### Files Overview
 
-##### Additional PowerShell Commands.ps1
+- ##### Additional PowerShell Commands.ps1
 
-##### Update Additional PowerShell Commands.ps1
+- ##### Update Additional PowerShell Commands.ps1
 
-##### Mass Update ImmutableID.ps1
+- ##### Mass Update ImmutableID.ps1
 
-##### Set-MsolDomainAuthentication.ps1
+- ##### Set-MsolDomainAuthentication.ps1
 
 
 ## Documentation Links 
