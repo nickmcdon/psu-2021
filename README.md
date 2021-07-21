@@ -4,13 +4,13 @@
 #### Files Overview
 
 - ##### Additional PowerShell Commands.ps1
-
-- ##### Update Additional PowerShell Commands.ps1
+This file contains a list of additional powershell commands run during the federation process.
 
 - ##### Mass Update ImmutableID.ps1
+This script can be run to mass-update the ImmutableID values for pre-existing Azure AD users created prior to enabling auto-provisioning or if you do not intend to leverage Google's Auto-Provisioning feature
 
 - ##### Set-MsolDomainAuthentication.ps1
-
+This is the main powershell command and variables run to configure domain federation settings. 
 
 ## Documentation Links 
 
