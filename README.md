@@ -1,6 +1,16 @@
 # Advanced Federation with Apple School Manager and Apple Business Manager 
 ### Session Resources 
 
+#### Files Overview
+
+##### Additional PowerShell Commands.ps1
+
+##### Update Additional PowerShell Commands.ps1
+
+##### Mass Update ImmutableID.ps1
+
+##### Set-MsolDomainAuthentication.ps1
+
 
 ## Documentation Links 
 
