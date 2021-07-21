@@ -1,8 +1,8 @@
-# psu-2021
+# psu-2021 : Advanced Federation with Apple School Manager and Apple Business Manager 
 Session Resources 
 
 
-Documentation Links 
+##Documentation Links 
 
 Configure SAML based SSO into Azure AD from Google Workspace
 https://support.google.com/a/answer/6363817
