@@ -1,5 +1,5 @@
 # psu-2021
-PSU Conference Resources 
+Session Resources 
 
 
 Documentation Links 
