@@ -23,6 +23,12 @@ https://support.google.com/a/answer/7365072
 Verify Domains in AxM
 https://support.apple.com/en-us/HT212275
 
+What are Managed Apple IDs 
+
+ABM - https://support.apple.com/guide/apple-business-manager/what-are-managed-apple-ids-tes78b477c81/1/web/1
+
+ASM - https://support.apple.com/guide/apple-school-manager/what-are-managed-apple-ids-tes78b477c81/1/web/1
+
 Domain Conflicts 
 
 ABM - https://support.apple.com/guide/apple-business-manager/about-domain-conflicts-apda5e07161d/1/web/1
