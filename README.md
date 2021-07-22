@@ -10,7 +10,7 @@
 > This script can be run to mass-update the ImmutableID values for pre-existing Azure AD users created prior to enabling auto-provisioning or if you do not intend to leverage Google's Auto-Provisioning feature
 
 - ##### Set-MsolDomainAuthentication.ps1
-> This is the main powershell command and variables run to configure domain federation settings. 
+> This is the main powershell command and variables run to configure domain federation settings. This was reffered to as "Set Domain Auth" in the presentation. 
 
 ## Documentation Links 
 
